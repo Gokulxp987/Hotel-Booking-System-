@@ -1,7 +1,6 @@
 # Hotel-Booking-System-
 A simple hotel booking system built with PHP to manage room inventory, bookings, and guest information. Allows hotel staff to log in, manage room availability, and process bookings seamlessly.
 
-# Hotel Booking System (PHP)
 
 The Hotel Booking System is a robust PHP-based web application designed to streamline hotel management operations and enhance the guest booking experience. This project provides hotel owners with a comprehensive platform to efficiently manage room inventory, bookings, guest information, and more.
 
